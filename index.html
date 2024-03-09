@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Marhaban Ya Ramadhan</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+ 
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Sacramento&family=Work+Sans:wght@100;300;400;600;700&display=swap"
+    rel="stylesheet" />
+
+  <!--Bootstrap Icon-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<script>
+  window.onbeforeunload = function(){
+			return "Terimakasih ya, ", name, " ❤️🙏";
+  }
+
+</script>
+
+<body>
+  <section id="hero"
+    class="hero w-100 h-100 p-3 mx-auto text-center d-flex justify-content-center align-items-center text-white">
+    <main>
+      <h3>Assalamualaikum, Halo <span id="name"></span></h3>
+      <h4>Saya, Shabir Mahfudz Prahono, mengucapkan</h4>
+      <h1>Marhaban Ya Ramadhan</h1> 
+      <h2>1445 Hijrah/2024 Masehi</h2>
+      <p>Semoga Segala Amal Ibadah diterima oleh Allah SWT</p>
+      <div class="simply-countdown"></div>
+      <a class="btn btn-lg mt-4" onclick="alert('Ya Allah, mudahkanlah kami dalam menjalankan ibadah puasa, terimalah amal ibadah kami di bulan Ramadhan ini. Ya Allah, jadikanlah kami hamba-Mu yang bertaqwa. Aamiin.');">Ingin di Doakan lagi ? ❤️</a>
+      <a class="btn btn-lg mt-4" href="https://github.com/shabir-mp">Support Saya</a>
+    </main>
+  </section>
+  <audio id="song" autoplay loop>
+      <source src="music.mp3" type="audio/mp3">
+  </audio>
+  <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
+  </script>
+  <script>
+    alert("Mohon maaf bila website ini masih banyak kesalahan. Mangga saya persilahkan untuk mengunjungi akun github saya (@shabirmp) untuk dukungan, diskusi, dan juga opensource");
+    var name = prompt("Please enter your name");
+    // Display the user's name in the h3 tag
+    document.getElementById("name").innerText = name;
+
+    song.play()
+  </script>
+</body>
+
+                                </html>
