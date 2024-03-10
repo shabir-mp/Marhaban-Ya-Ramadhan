@@ -1,4 +1,4 @@
-# Marhaban-Ya-Ramadhan
+# Marhaban-Ya-Ramadhan 🙏😁🥳❤️
 Happy celebrating this blessed month of Ramadhan. May all our good deeds be accepted and all our sins erase 
 Ramadhan
 Ramadhan is the ninth month of the Islamic calendar, and it is observed by Muslims worldwide as a month of fasting, prayer, and reflection.
@@ -27,3 +27,6 @@ Ramadhan is a time for Muslims to come together in unity and community. Muslims 
 Ramadhan is a time for spiritual growth and reflection. Muslims are encouraged to read the Quran, attend religious lectures and classes, and engage in other acts of worship. This helps Muslims to deepen their understanding of Islam and to strengthen their faith.
 
 In conclusion, Ramadhan is a month of blessings, forgiveness, and mercy. It is a time for Muslims to purify their minds, bodies, and souls through fasting, prayer, and reflection. By observing Ramadhan, Muslims can achieve spiritual growth, forgiveness of sins, mercy and compassion, unity and community, and other benefits.
+
+#Palestine-Will-Be-Free 🇸🇩 #Palestine-Freedom 🇸🇩
+🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩
